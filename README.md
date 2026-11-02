@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-yousaf&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-yousaf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-with-yousaf" alt="code-with-yousaf" /></a> </p>
-
 - 📫 How to reach me **yousafkhan122666@gmail.com**
 
 - ⚡ Fun fact **Gaming**
