@@ -28,12 +28,26 @@
 
 ---
 
-## 📊 GitHub Profile Badges & Highlights
+## 📊 GitHub Analytics & Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-Active-brightgreen?style=for-the-badge&logo=github" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Main_Language-JavaScript%20%2F%20React-blue?style=for-the-badge&logo=javascript" alt="Main Language" />
-  <img src="https://img.shields.io/badge/Status-Coding%20&%20Building-orange?style=for-the-badge&logo=codeforces" alt="Status" />
+  <img src="https://github-readme-stats.vercel.app/api?username=code-with-yousaf&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Yousaf's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-yousaf&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-yousaf&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-yousaf&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph" />
 </p>
 
 ---
